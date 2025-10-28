@@ -1,3 +1,7 @@
+Author:Mugerwa Aiden Imuran 
+Description:Guess the game
+Version:NGGV1.1
+*/
 import java.util.Random;
 import java.util.Scanner;
 
@@ -58,4 +62,5 @@ public class NumberGuessingGame {
         
         scanner.close();
     }
+
 }
