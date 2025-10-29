@@ -1,9 +1,14 @@
  /*Adding values to the variable, after creating it.(method 2)*/
-
+/* 
+mynumber
+@author imuran
+@version 10/29/2025
+*/ 
 public class L01_ex03_03 
 { 
    public static void main (String[] args) 
    { 
       int myNumber = 100; 
    } 
+
 } 
