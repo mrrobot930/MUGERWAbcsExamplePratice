@@ -1,5 +1,9 @@
  /*Adding values to the variable, after creating it.(method 1)*/
-
+/* 
+number. 
+@author mugerwa
+@version 10/29/2025
+*/ 
 public class L01_ex03_02 
 { 
    public static void main (String[] args) 
@@ -7,4 +11,5 @@ public class L01_ex03_02
       int myNumber; 
       myNumber = 100; 
    } 
+
 } 
