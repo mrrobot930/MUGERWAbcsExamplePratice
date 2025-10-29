@@ -1,3 +1,8 @@
+/* 
+Hypotenuse. 
+@author Imuran
+@version 29/10/2025
+*/
 public class L01_P06_Hypot {
     public static void main(String[] args) {
         double adjacent = 5.5;
@@ -5,4 +10,5 @@ public class L01_P06_Hypot {
         double hypotenuse = Math.sqrt(Math.pow(adjacent, 2) + Math.pow(opposite, 2));
         System.out.println("The hypotenuse of the right-angle triangle is: " + hypotenuse);
     }
+
 }
