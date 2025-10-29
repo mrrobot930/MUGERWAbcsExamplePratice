@@ -1,9 +1,14 @@
 /*The following code creates a variable that stores integers (numbers).*/
- 
+/* 
+int. 
+@author mugerwa
+@version 29/10/2025
+*/ 
 public class L01_ex03_01 
 { 
    public static void main (String[] args) 
    { 
       int myNumber; 
    } 
+
 }
