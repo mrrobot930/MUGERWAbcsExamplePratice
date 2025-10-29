@@ -1,3 +1,8 @@
+/* 
+double   numbers. 
+@author Imuran
+@version 10/29/2025
+*/
 import java.util.Scanner;
 
 public class L01_P07_Add {
@@ -14,4 +19,5 @@ public class L01_P07_Add {
 
         System.out.println("The sum is: " + sum);
     }
+
 }
