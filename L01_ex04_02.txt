@@ -1,4 +1,8 @@
-/* We can even perform calculations with variables. The following calculates the area of triangle.*/
+/* We can even perform calculations with variables. The following calculates the area of triangle.*//* 
+area
+@author imuran
+@version 10/29/2025
+*/ 
 
 public class L01_ex04_02 
 { 
@@ -8,4 +12,5 @@ public class L01_ex04_02
       int width = 4; 
       System.out.println( 0.5 * height * width ); 
    } 
+
 }
