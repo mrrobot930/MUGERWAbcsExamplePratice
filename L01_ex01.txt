@@ -1,8 +1,12 @@
-
+/*
+author :Mugerwa Imuran 
+version:10/29/2025
+*/ 
 public class L01_ex01 
 { 
 public static void main (String[] args) 
 { 
 System.out.println(“Hello world.”); 
 } 
+
 }
