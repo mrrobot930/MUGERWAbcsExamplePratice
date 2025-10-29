@@ -1,0 +1,10 @@
+public class L01_P04_YearBorn {
+    public static void main(String[] args) {
+        int currentYear = 2025;
+        int age = 18;
+
+        int birthYear = currentYear - age;
+
+        System.out.println("Your birth year is: " + birthYear);
+    }
+}
