@@ -1,5 +1,9 @@
 /* On top of the basic mathematical operations, there are more in the form of functions. */
-
+/* 
+values
+@author imuran
+@version 10/29/2025
+*/ 
 public class L01_ex06 
 { 
 public static void main (String[] args) 
@@ -15,4 +19,5 @@ System.out.println(powerValue);
 Double rootValue = Math.sqrt(9);  
 System.out.println(rootValue);      
 } 
+
 }
